@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da302ba-01d6-4e6d-b996-714bdae2271e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classroom.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DnvdLl3aKsMY2gKURY3xqqPtpq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Chibuzo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.turtleTest.turtleCanTurnRight_FacingEastTest">
+    <configuration name="ArrayPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kenny.ArrayPattern" />
+      <module name="classroom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kenny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="classroom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kenny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Chibuzo" />
+      <option name="MAIN_CLASS_NAME" value="com.kenny.turtleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtleTest.thereIsATurtle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="classroom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kenny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kenny" />
+      <option name="MAIN_CLASS_NAME" value="com.kenny.turtleTest" />
+      <option name="METHOD_NAME" value="thereIsATurtle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtleTest.turtleCanMoveWhileFacingWest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="classroom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kenny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Chibuzo" />
+      <option name="MAIN_CLASS_NAME" value="com.kenny.turtleTest" />
+      <option name="METHOD_NAME" value="turtleCanMoveWhileFacingWest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="turtleTest.turtleCanTurnRight_FacingEastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="classroom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kenny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kenny" />
+      <option name="MAIN_CLASS_NAME" value="com.kenny.turtleTest" />
+      <option name="METHOD_NAME" value="turtleCanTurnRight_FacingEastTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.turtleTest.turtleCanTurnRight_FacingEastTest" />
+        <item itemvalue="Application.com.kenny.ArrayPattern" />
+        <item itemvalue="JUnit.turtleTest.thereIsATurtle" />
+        <item itemvalue="JUnit.turtleTest" />
+        <item itemvalue="JUnit.turtleTest.turtleCanMoveWhileFacingWest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da302ba-01d6-4e6d-b996-714bdae2271e" name="Changes" comment="" />
+      <created>1661347751923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661347751923</updated>
+      <workItem from="1661347754569" duration="5333000" />
+      <workItem from="1661374672544" duration="626000" />
+      <workItem from="1662024238055" duration="21269000" />
+      <workItem from="1662066639694" duration="6100000" />
+      <workItem from="1662106022949" duration="8657000" />
+      <workItem from="1662133299244" duration="316000" />
+      <workItem from="1662155102741" duration="1215000" />
+      <workItem from="1662193525504" duration="1844000" />
+      <workItem from="1662204793487" duration="673000" />
+      <workItem from="1662227558538" duration="773000" />
+      <workItem from="1662228440070" duration="226000" />
+      <workItem from="1662256714117" duration="2391000" />
+      <workItem from="1662292295888" duration="395000" />
+      <workItem from="1662313963529" duration="440000" />
+      <workItem from="1662455236906" duration="28000" />
+      <workItem from="1662590162644" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
